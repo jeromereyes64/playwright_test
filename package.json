@@ -1,0 +1,18 @@
+{
+  "name": "jerome-reyes-playwright-javascript",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@git.planittesting.com:jreyes/jerome-reyes-playwright-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.12"
+  }
+}
